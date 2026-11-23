@@ -14,6 +14,13 @@
         label="Go to Second Page"
         no-caps
       />
+      <q-btn
+        class="q-mt-md"
+        color="primary"
+        to="/randompage"
+        label="Go to Random Page"
+        no-caps
+      />
     </div>
   </q-page>
 </template>
